@@ -48,7 +48,7 @@ frontend/
 ### 1. Clone
 
 ```bash
-git clone <repo-url>
+https://github.com/NishulDhakar/PERN-Auth.git
 cd pern-auth-starter
 ```
 
